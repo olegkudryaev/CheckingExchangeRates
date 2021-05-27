@@ -1,0 +1,17 @@
+com/example/demo/RateProxy.java
+ com.example.demo.RateProxy
+com/example/demo/GiphyProxy.java
+ com.example.demo.GiphyProxy
+com/example/demo/Giphy.java
+ com.example.demo.Giphy
+ com.example.demo.GiphyResponse
+com/example/demo/Courses.java
+ com.example.demo.Courses
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/RateService.java
+ com.example.demo.RateService
+com/example/demo/HomeController.java
+ com.example.demo.HomeController
+com/example/demo/Config.java
+ com.example.demo.Config

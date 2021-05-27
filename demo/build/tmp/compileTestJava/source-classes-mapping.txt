@@ -1,0 +1,10 @@
+com/example/demo/DemoApplicationTests.java
+ com.example.demo.DemoApplicationTests
+com/example/demo/RateServiceMockMvcTest.java
+ com.example.demo.RateServiceMockMvcTest
+com/example/demo/HomeControllerTest.java
+ com.example.demo.HomeControllerTest
+com/example/demo/HttpRequestWebMvcTest.java
+ com.example.demo.HttpRequestWebMvcTest
+com/example/demo/HttpRequestMockMvcTest.java
+ com.example.demo.HttpRequestMockMvcTest
